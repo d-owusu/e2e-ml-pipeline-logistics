@@ -16,10 +16,10 @@ By Delivering goods timely , customers expectations are meet and competetiveness
 - Traffic: Traffic-related data.
 - Truck Schedule: Schedules and timing information for trucks.
 
-.Tech Stack
-➔ Language: Python, SQL
-➔ Libraries: NumPy, Pandas, PyMySQL , Psycopg2, Matplotlib, Seaborn
-➔ Data Storage: PostgreSQL,MySQL, AWS RDS, Hopsworks
-➔ Data Visual Tool(SQL): MySQL Workbench, Pgadmin4
-➔ Feature Store: Hopsworks
-➔ Cloud Platform: AWS Sagemaker
+## Tech Stack
+- ➔ Language: Python, SQL
+- ➔ Libraries: NumPy, Pandas, PyMySQL , Psycopg2, Matplotlib, Seaborn
+- ➔ Data Storage: PostgreSQL,MySQL, AWS RDS, Hopsworks
+- ➔ Data Visual Tool(SQL): MySQL Workbench, Pgadmin4
+- ➔ Feature Store: Hopsworks
+- ➔ Cloud Platform: AWS Sagemaker
