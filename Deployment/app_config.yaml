@@ -1,0 +1,31 @@
+hopswork_api_key : "FyfJAvl7kpsZ4Qfb.DPDNg7emnbWbDHi5ldk99IGoXs7c1I7w1a8IjARb3KX38JQyrJKbphOBlllFG1ep"
+
+wandb_api_key : '284c00c8add79e71335decaacb8f8df099ee4354'
+
+wandb_project : "truck_dely"
+
+wandb_user : "dowusu"
+
+cts_col_names : ['route_avg_temp', 'route_avg_wind_speed',
+       'route_avg_precip', 'route_avg_humidity', 'route_avg_visibility',
+       'route_avg_pressure', 'distance', 'average_hours',
+       'origin_temp', 'origin_wind_speed', 'origin_precip', 'origin_humidity',
+       'origin_visibility', 'origin_pressure',
+       'destination_temp','destination_wind_speed','destination_precip',
+       'destination_humidity', 'destination_visibility','destination_pressure',
+        'avg_no_of_vehicles', 'truck_age','load_capacity_pounds', 'mileage_mpg',
+        'age', 'experience','average_speed_mph']
+
+
+cat_col_names : ['route_description',
+       'origin_description', 'destination_description',
+        'accident', 'fuel_type',
+       'gender', 'driving_style', 'ratings','is_midnight']
+
+encode_column_names: [
+    'route_description',
+ 'origin_description',
+ 'destination_description',
+ 'fuel_type',
+ 'gender',
+ 'driving_style']
