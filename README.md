@@ -2,7 +2,7 @@
 In this project , I address the truck delay problem faced by the logistics industry. I build and delploy a ML model to help identify and improve the situation.
 Delayed truck shipments causes significant impacts logistic companies by increasing its operational costs as well as dissatisfed customers.
 By Delivering goods timely , customers expectations are meet and competetiveness in the logisticsindustry is maintained. By accurately predicting truck delays, logistics companies can ;
-- Improve  their opeational efficiency by allocating resources more effectively.
+- Improve  their operational efficiency by allocating resources more effectively.
 - Optmize route planning to reduce delays caused by traffic or adverse weather conditions.
 - Reduce costs associated with delayed shipments
 - Enhance customer satisfaction by allcating resources efficiently.
